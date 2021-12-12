@@ -2,7 +2,7 @@ package ru.toroschin.ads;
 
 import java.util.Random;
 
-public class MyArray {
+public class NotebookArray {
     public static int minPrice = 500;
     public static int maxPrice = 2000;
     public static int minRam = 4;
