@@ -5,7 +5,9 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
+        // задание 1
         exercise1();
+        // задание 2
         exercise2();
     }
 
